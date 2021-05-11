@@ -11,7 +11,7 @@
 - Java, Kt, Haskell, and something else... -
 </p>
 <p align="center">
-- Learned Java for 2 years but I am more interested in Kotlin, well, anyway, Java (>= 11) is okay. -
+- Learned Java for 2 years but I am more interested in Kotlin, well, anyway, Java (>= 8) is okay. -
 </p>
 <p align="center">
 - Tried to have some initiatives in Front-end, it's not my field but I'm looking for some future possibilities over it. -
@@ -20,7 +20,7 @@
 - Appealed by the elegance of Haskell and the theories behind it, and I'm going to have a look on Category and Compiling after my school stuff is finished. - 
 </p>
 <p align="center">
-- If everything goes well ... -
+- If everything goes well ... Looking for some Java for extra -
 </p>
 <p align="center">
 - Busy on a home made DSL compiler ... and a game -
