@@ -20,7 +20,7 @@
 - Appealed by the elegance of Haskell and the theories behind it, and I'm going to have a look on Category and Compiling after my school stuff is finished. - 
 </p>
 <p align="center">
-- If everything goes well ... Looking for some Java for extra -
+- If everything goes well ... Looking for some Java and JVM for extra -
 </p>
 <p align="center">
 - Busy on a home made DSL compiler ... and a game -
