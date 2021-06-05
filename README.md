@@ -14,6 +14,9 @@
 - Learned Java for 2 years but I am more interested in Kotlin, well, anyway, Java (>= 8) is okay. -
 </p>
 <p align="center">
+- Also interested in C# but is a noob about it. -
+</p>
+<p align="center">
 - Tried to have some initiatives in Front-end, it's not my field but I'm looking for some future possibilities over it. -
 </p>
 <p align="center">
@@ -23,10 +26,11 @@
 - If everything goes well ... Looking for some Java and JVM for extra -
 </p>
 <p align="center">
-- Busy on a home made DSL compiler ... and a game -
+- Busy on a <s>home made DSL compiler</s> a game implemented in Kotlin DSL, along with an interface written with Unity 3D -
 </p>
+
 <p align="center">
-- Looking for opportunities on internships or projects.. -
+  <a href="https://github.com/trekhleb/state-of-the-art-shitcode"><img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804"  alt="State-of-the-art Shitcode"/></a>
 </p>
 
 <p align="center">
