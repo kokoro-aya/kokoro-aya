@@ -1,32 +1,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&show_icons=true&theme=tokyonight">
 </p>
+
 <p align="center">
-- A 🇨🇳 CS student studying in 🇫🇷 -
-</p>
-<p align="center">
-- Interested in Software Development, PLT and other interesting stuff -
-</p>
-<p align="center">
-- Java, Kt, Haskell, and something else... -
-</p>
-<p align="center">
-- Learned Java for 2 years but I am more interested in Kotlin, well, anyway, Java (>= 8) is okay. -
-</p>
-<p align="center">
-- Also interested in C# but is a noob about it. -
-</p>
-<p align="center">
-- Tried to have some initiatives in Front-end, it's not my field but I'm looking for some future possibilities over it. -
-</p>
-<p align="center">
-- Appealed by the elegance of Haskell and the theories behind it, and I'm going to have a look on Category and Compiling after my school stuff is finished. - 
-</p>
-<p align="center">
-- If everything goes well ... Looking for some Java and JVM for extra -
-</p>
-<p align="center">
-- Busy on a <s>home made DSL compiler</s> a game implemented in Kotlin DSL, along with an interface written with Unity 3D -
+  A total noob on CS.
 </p>
 
 <p align="center">
