@@ -13,15 +13,6 @@
 
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 
-- You will find:
-  - Confusing API exposures
-  - Highly coupled project structures
-  - Wrong inheritances
-  - Premature optimizations
-  - Strange designs for extensiveness
-  
-  in my code.
-
 ## Languages, tools and others
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-aya&layout=compact&langs_count=8&theme=tokyonight">
@@ -82,6 +73,26 @@
     <img alt="Coq" height=25 src="https://img.shields.io/badge/Coq-%23b1926a.svg?style=for-the-badge&" />
   </li>
 </ul>
+
+## Coding Style
+
+I'm trying hard to produce better codes, but the reality is always far away from the imagination.
+
+- Ideal: Elegant and clear code style, following FP and declarative ways, with comments and docs of quality.
+
+- Reality: Imperative spaghetti, mixed with pointless fragments of Linq, data class or something else. Nothing to do with elegancy.
+
+- Besides, you will find: 
+  - Bad naming conventions
+  - Confusing API exposures
+  - Highly coupled project structures
+  - Wrong inheritances
+  - Premature optimizations
+  - Strange designs for extensiveness
+  
+  in my code.
+  
+- Conclusion: Follwing de facto the principle of *the art of shitcode*.
 
 <p align="center">
   <a align="center" href="https://github.com/trekhleb/state-of-the-art-shitcode"><img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804"  alt="State-of-the-art Shitcode"/></a>
