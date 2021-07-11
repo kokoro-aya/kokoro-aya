@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=320&text=kokoro-aya&animation=fadeIn)
+## ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&animation=fadeIn)
 
 <p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&count_private=true&hide=prs&show_icons=true&theme=tokyonight">
