@@ -92,7 +92,7 @@ I'm trying hard to produce better codes, but the reality is always far away from
   
   in my code.
   
-- Conclusion: Follwing de facto the principle of *the art of shitcode*.
+- Consequence: Following de facto the principle of *the art of shitcode*.
 
 <p align="center">
   <a align="center" href="https://github.com/trekhleb/state-of-the-art-shitcode"><img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804"  alt="State-of-the-art Shitcode"/></a>
