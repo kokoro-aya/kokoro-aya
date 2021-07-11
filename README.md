@@ -11,7 +11,16 @@
 
 - Mostly a noob but loves the different possibilities that programming can offer, and the joy of implementing ideas.
 
-- I love discovering different paradigms and I'm trying to make use of them. Yet, none of them is proficient.
+- I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
+
+- You will find:
+  - Confusing API exposures
+  - Highly coupled project structures
+  - Wrong inheritances
+  - Premature optimizations
+  - Strange designs for extensiveness
+  
+  in my code.
 
 ## Languages, tools and others
 
@@ -27,7 +36,11 @@
         <img alt="Rust" height=25 src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
         <img alt="Haskell" height=25 src="https://img.shields.io/badge/haskell-%235a5181.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
         <img alt="Gradle" height=25 src="https://img.shields.io/badge/gradle-%23112f39.svg?style=for-the-badge&logo=gradle&logoColor=white"/>
+      </li>
+      <li>
+        <img alt="Scala" height=25 src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
         <img alt="Ktor" height=25 src="https://img.shields.io/badge/ktor-%23637bee.svg?style=for-the-badge&"/>
+        <img alt="Antlr" height=25 src="https://img.shields.io/badge/antlr-%23e47659.svg?style=for-the-badge&"/>
       </li>
     </ul>
   </li>
