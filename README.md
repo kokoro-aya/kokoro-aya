@@ -60,7 +60,13 @@
     <img alt="Sketch" height=25 src="https://img.shields.io/badge/Sketch-%23eeb63f.svg?style=for-the-badge&logo=sketch&logoColor=black"/>
   </li>
   <li>
+    <img alt="Affinity Designer" height=25 src="https://img.shields.io/badge/AffinityDesigner-%233572b8.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
+  </li>
+  <li>
     <img alt="Jupyter" height=25 src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  </li>
+  <li>
+    <img alt="Coq" height=25 src="https://img.shields.io/badge/Coq-%23b1926a.svg?style=for-the-badge&" />
   </li>
 </ul>
 
