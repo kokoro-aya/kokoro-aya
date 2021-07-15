@@ -9,6 +9,8 @@
   - Functional Programming
   - Compiling Theories
 
+- Mainly interested in cross-platform and desktop development, yet haven't found a clear path towards it.
+
 - Mostly a noob but loves the different possibilities that programming can offer, and the joy of implementing ideas.
 
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
@@ -32,6 +34,7 @@
         <img alt="Scala" height=25 src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
         <img alt="Ktor" height=25 src="https://img.shields.io/badge/ktor-%23637bee.svg?style=for-the-badge&"/>
         <img alt="Antlr" height=25 src="https://img.shields.io/badge/antlr-%23e47659.svg?style=for-the-badge&"/>
+        <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </li>
     </ul>
   </li>
@@ -58,13 +61,13 @@
     </ul>
   </li>
   <li>
-  	<img alt="Visual Studio Code" height=25 src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  	<img alt="Visual Studio Code" height=25 src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </li>
   <li>
     <img alt="Sketch" height=25 src="https://img.shields.io/badge/Sketch-%23eeb63f.svg?style=for-the-badge&logo=sketch&logoColor=black"/>
   </li>
   <li>
-    <img alt="Affinity Designer" height=25 src="https://img.shields.io/badge/AffinityDesigner-%233572b8.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
+    <img alt="Affinity Designer" height=25 src="https://img.shields.io/badge/Affinity%20Designer-%233572b8.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
   </li>
   <li>
     <img alt="Jupyter" height=25 src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
