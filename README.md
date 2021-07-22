@@ -77,7 +77,7 @@
   </li>
 </ul>
 
-## Coding Style
+## Coding Flavor and Style
 
 I'm trying hard to produce better codes, but the reality is always far away from the imagination.
 
