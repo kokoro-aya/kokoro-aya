@@ -15,6 +15,8 @@
 
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 
+- [ ] Project of the year: write a full FP toolbox library for my usage and write several applications e.g. parser combinator with the help of it.
+
 ## Languages, tools and others
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-aya&layout=compact&langs_count=8&theme=tokyonight">
