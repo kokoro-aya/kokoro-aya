@@ -15,7 +15,12 @@
 
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 
-- [ ] Project of the year: write a full FP toolbox library for my usage and write several applications e.g. parser combinator with the help of it.
+- Ongoing Projects for the year 2021-2022
+  - [ ] A full FP toolbox library for my usage and write several applications e.g. parser combinator
+  - [ ] Learn the OS kernel with ruast
+  - [ ] Learn advanced FP
+  - [ ] Write an application with WinUI3
+  - [ ] 机器瞎学（bushi
 
 ## Languages, tools and others
 
