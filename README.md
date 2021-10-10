@@ -15,12 +15,14 @@
 
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 
-- Ongoing Projects for the year 2021-2022
-  - [ ] A full FP toolbox library for my usage and write several applications e.g. parser combinator
-  - [ ] Learn the OS kernel with ruast
-  - [ ] Learn advanced FP
-  - [ ] Write an application with WinUI3
-  - [ ] 机器瞎学（bushi
+- Currently going over Haskell programming and will move on more advanced topics on FP and some basic Coq programming. Hope this could be done before this christmas.
+
+- Some topics for the next year could be: 
+  - Implement a handy FP toolbox library for my personal usage and re-implement several applications using this library
+  - Start to design a parser for a simple FP language, or at least a type checking system. This requires a solid foundation over several topics like type systems and parsing techniques.
+  - Get in touch with OS Kernal and ruast
+  - Take a first step into the machine learning
+  - Write some desktop applications, with the WinUI3 or MAUI which is coming
 
 ## Languages, tools and others
 
