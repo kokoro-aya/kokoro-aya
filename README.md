@@ -81,9 +81,6 @@
   <li>
     <img alt="Jupyter" height=25 src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   </li>
-  <li>
-    <img alt="Coq" height=25 src="https://img.shields.io/badge/Coq-%23b1926a.svg?style=for-the-badge&" />
-  </li>
 </ul>
 
 ## Coding Flavor and Style
