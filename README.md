@@ -15,7 +15,7 @@
 
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 
-- Currently going over Haskell/OCaml programming and several topics on FP.
+- Currently building a homemade simple language compiler and learning compiling theories.
 
 ## Languages, tools and others
 
@@ -28,8 +28,8 @@
       <li>
         <img alt="Java" height=25 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
         <img alt="Kotlin" height=25 src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-        <img alt="Rust" height=25 src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
         <img alt="Haskell" height=25 src="https://img.shields.io/badge/haskell-%235a5181.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
+        <img alt="OCaml" height=25 src="https://img.shields.io/badge/ocaml-%233be133.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
         <img alt="Gradle" height=25 src="https://img.shields.io/badge/gradle-%23112f39.svg?style=for-the-badge&logo=gradle&logoColor=white"/>
       </li>
       <li>
