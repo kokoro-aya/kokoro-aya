@@ -13,7 +13,7 @@ interests = do
 languageSkills = [Kotlin, Haskell, CSharp, OCaml, Java]
 
 main = 
-    me `greet` ()
+    kokoro_aya `greet` ()
 ```
 
 
