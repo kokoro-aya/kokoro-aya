@@ -6,9 +6,9 @@ name = "kokoro_aya"
 occupation = Student `of` ComputerScience
 
 interests = do
-    fields <- TheoreticalComputerScience <$> ModernOOP <*> FunctionalProgramming <*> CompilingTheories
-    let leisures = [Minecraft, Travaling, Coding] in
-    pure $ InterestsOf fields leisures
+              fields <- TheoreticalComputerScience <$> ModernOOP <*> FunctionalProgramming <*> CompilingTheories
+              let leisures = [Minecraft, Travaling, Coding] in
+              pure $ InterestsOf fields leisures
     
 languageSkills = [Kotlin, Haskell, CSharp, OCaml, Java]
 
