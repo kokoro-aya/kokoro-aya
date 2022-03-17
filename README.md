@@ -1,5 +1,24 @@
 ## ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&animation=fadeIn)
 
+```haskell
+name = "kokoro_aya"
+
+occupation = Student `of` ComputerScience
+
+interests = do
+    fields <- TheoreticalComputerScience <$> ModernOOP <*> FunctionalProgramming <*> CompilingTheories
+    let leisures = [Minecraft, Travaling, Coding] in
+    pure $ InterestsOf fields leisures
+    
+languageSkills = [Kotlin, Haskell, CSharp, OCaml, Java]
+
+main = 
+    me `greet` ()
+```
+
+
+
+
 <p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&count_private=true&hide=prs&show_icons=true&theme=tokyonight">
 
