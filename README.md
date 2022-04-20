@@ -22,21 +22,17 @@ main =
 <p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&count_private=true&hide=prs&show_icons=true&theme=tokyonight">
 
-- A 🇨🇳 CS student studying in 🇫🇷, mainly interested in software development. I'm mainly learning
+- A 🇨🇳 CS student studying in 🇫🇷, mainly curious about software development. I am willing to make friends and discuss with friends on topics like dev/PL/FP.
 
-  - Modern Object Oriented Programming
-  - Functional Programming
-  - Compiling Theories
-
-- Mainly interested in cross-platform and desktop development, yet haven't found a clear path towards it.
-
-- Mostly a noob but loves the different possibilities that programming can offer, and the joy of implementing ideas.
-
+- I enjoy learning and using modern languages with exquisite design, such as Haskell, C#, Kotlin, Scala and OCaml.
+- From a theoretical perspective, I am willing to acquire knowledges in Compiling and Programming Language Theory.
+- From a practical perspective, I am seeking for opportunities to learn some non trivial FP techniques and to be in touch with Compiler/VM Design and Optimization.
+- I am interested in modern Object Oriented Design and desktop/cross-platform application development as well.
+- Still a starter in coding but loves the different perspectives that programming can offer, and the joy of implementing ideas.
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
-
 - Currently building a homemade simple language compiler and learning compiling theories.
 
-## Languages, tools and others
+#### Languages and tools that I'm currently using
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-aya&layout=compact&langs_count=8&theme=tokyonight">
 
@@ -48,14 +44,10 @@ main =
         <img alt="Java" height=25 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
         <img alt="Kotlin" height=25 src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
         <img alt="Haskell" height=25 src="https://img.shields.io/badge/haskell-%235a5181.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
-        <img alt="OCaml" height=25 src="https://img.shields.io/badge/ocaml-%233be133.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
-        <img alt="Gradle" height=25 src="https://img.shields.io/badge/gradle-%23112f39.svg?style=for-the-badge&logo=gradle&logoColor=white"/>
       </li>
       <li>
         <img alt="Scala" height=25 src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-        <img alt="Ktor" height=25 src="https://img.shields.io/badge/ktor-%23637bee.svg?style=for-the-badge&"/>
         <img alt="Antlr" height=25 src="https://img.shields.io/badge/antlr-%23e47659.svg?style=for-the-badge&"/>
-        <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </li>
     </ul>
   </li>
@@ -66,7 +58,6 @@ main =
         <img alt="TypeScript" height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img alt="React" height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
         <img alt="Ant-Design" height=25 src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-        <img alt="NPM" height=25 src="https://img.shields.io/badge/-npm-%23bc443e?style=for-the-badge&logo=npm&logoColor=white"/>
       </li>
     </ul>
   </li>
@@ -75,45 +66,42 @@ main =
     <ul>
       <li>
       	<img alt="C#" height=25 src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-        <img alt="Unity" height=25 src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-        <img alt=".Net" height=25 src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
       </li>
     </ul>
   </li>
   <li>
   	<img alt="Visual Studio Code" height=25 src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </li>
-  <li>
     <img alt="Sketch" height=25 src="https://img.shields.io/badge/Sketch-%23eeb63f.svg?style=for-the-badge&logo=sketch&logoColor=black"/>
-  </li>
-  <li>
     <img alt="Affinity Designer" height=25 src="https://img.shields.io/badge/Affinity%20Designer-%233572b8.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
-  </li>
-  <li>
     <img alt="Jupyter" height=25 src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   </li>
 </ul>
 
-## Coding Flavor and Style
 
-I'm trying hard to produce better codes, but the reality is always far away from the imagination.
+#### Languages and tools that I'm willing to use
 
-- Ideal: Elegant and clear code style, following FP and declarative ways, with comments and docs of quality.
+<ul>
+  <li>
+    <img alt="OCaml" height=25 src="https://img.shields.io/badge/ocaml-%233be133.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
+    <img alt="Swift" height=25 src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+    <img alt="Rust" height=25 src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+    <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Unity" height=25 src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img alt=".Net" height=25 src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </li>
+</ul>
 
-- Reality: Imperative spaghetti, mixed with pointless fragments of Linq, data class or something else. Nothing to do with elegancy.
+#### Coding Flavor and Style
 
-- Besides, you will find: 
-  - Bad naming conventions
-  - Confusing API exposures
-  - Highly coupled project structures
-  - Wrong inheritances
-  - Premature optimizations
-  - Strange designs for extensiveness
-  
-  in my code.
-  
-- Consequence: Following de facto the principle of *the art of shitcode*.
+I'm trying hard to produce better codes, but the reality is always far away from ideal.
 
-<p align="center">
-  <a align="center" href="https://github.com/trekhleb/state-of-the-art-shitcode"><img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804"  alt="State-of-the-art Shitcode"/></a>
-</p>
+I am convinced by types, immutability, composition of functions, the principle of composition over inheritance and self-documenting code and I am working hard to make my code of quality and clean code style, following FP principles and declararive ways, with comments and docs of quality.
+
+Still, you find some imperative spaghetti in my old codes and some recent repositories, I am doing my best to prevent them but it could be kind of inevitable in my current stage.
+
+You could find some more problems in my code, in particular:
+
+-   Coupled project structures
+-   Premature optimizations and strange designs for extensiveness
+
+
