@@ -63,7 +63,6 @@ main =
   	<img alt="WebStorm" align="center" height=25 src="https://img.shields.io/badge/WebStorm-%2346a0a1.svg?style=for-the-badge&logo=webstorm&logoColor=white"/>
     <ul>
       <li>
-        <img alt="JavaScript" height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="TypeScript" height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img alt="React" height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
         <img alt="Ant-Design" height=25 src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
