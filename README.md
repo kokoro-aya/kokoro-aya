@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&animation=fadeIn)
+## ![header](https://capsule-render.vercel.app/api?&type=waving&color=0:0000ff,100:ffd700&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&fontColor=ffffff&animation=fadeIn)
 
 ```haskell
 name = "kokoro_aya"
