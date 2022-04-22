@@ -83,6 +83,7 @@ main =
 <ul>
   <li>
     <img alt="OCaml" height=25 src="https://img.shields.io/badge/ocaml-%233be133.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
+    <img alt="Haskell" height=25 src="https://img.shields.io/badge/haskell-%235a5181.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
     <img alt="Swift" height=25 src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
     <img alt="Rust" height=25 src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
     <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
