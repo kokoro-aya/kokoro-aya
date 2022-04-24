@@ -32,7 +32,7 @@ main =
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 - Currently building a homemade simple language compiler and learning compiling theories.
 
-#### Languages and tools that I'm currently using
+## Languages and tools that I'm currently using
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-aya&layout=compact&langs_count=8&theme=tokyonight">
 
@@ -78,7 +78,7 @@ main =
 </ul>
 
 
-#### Languages and tools that I'm willing to use
+## Languages and tools that I'm willing to use
 
 <ul>
   <li>
@@ -92,7 +92,7 @@ main =
   </li>
 </ul>
 
-#### Coding Flavor and Style
+## Coding Flavor and Style
 
 I'm trying hard to produce better codes, but the reality is always far away from ideal.
 
@@ -105,4 +105,9 @@ You could find some more problems in my code, in particular:
 -   Coupled project structures
 -   Premature optimizations and strange designs for extensiveness
 
+## Contact Me
 
+<div align="center">
+  <a href="https://irony.moe"><img align="center" src="https://img.shields.io/badge/Blog-irony.moe-939650?logo=hexo&style=for-the-badge">
+  <a href="mailto:kokoro.aya.irony.moe@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-talk%20with%20me-5dac81?logo=minutemailer&style=for-the-badge"></a>
+</div>
