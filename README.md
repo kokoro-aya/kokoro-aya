@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?&type=waving&color=0:0000ff,100:ffd700&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&fontColor=ffffff&animation=fadeIn)
+## ![header](https://capsule-render.vercel.app/api?&type=waving&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&fontColor=ffffff&animation=fadeIn)
 
 ```haskell
 name = "kokoro_aya"
@@ -22,7 +22,7 @@ main =
 <p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&count_private=true&hide=prs&show_icons=true&theme=tokyonight">
 
-- A 🇨🇳 CS student studying in 🇫🇷, mainly curious about software development. I am willing to make friends and discuss with friends on topics like dev/PL/FP.
+- Mainly curious about software development, I am willing to make friends and discuss with friends on topics like dev/PL/FP.
 
 - I enjoy learning and using modern languages with exquisite design, such as Haskell, C#, Kotlin, Scala and OCaml.
 - From a theoretical perspective, I am willing to acquire knowledges in Compiling and Programming Language Theory.
