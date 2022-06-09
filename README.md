@@ -66,11 +66,20 @@ main =
     <ul>
       <li>
       	<img alt="C#" height=25 src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+        <img alt="Avalonia" height=25 src="https://img.shields.io/badge/avalonia-814ba7?style=for-the-badge&logoColor=white" />
       </li>
     </ul>
   </li>
   <li>
   	<img alt="Visual Studio Code" height=25 src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <ul>
+      <li>
+        <img alt="OCaml" height=25 src="https://img.shields.io/badge/ocaml-%233be133.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
+        <img alt="Haskell" height=25 src="https://img.shields.io/badge/haskell-%235a5181.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
+      </li>
+    </ul>
+  </li>
+  <li>
     <img alt="Sketch" height=25 src="https://img.shields.io/badge/Sketch-%23eeb63f.svg?style=for-the-badge&logo=sketch&logoColor=black"/>
     <img alt="Affinity Designer" height=25 src="https://img.shields.io/badge/Affinity%20Designer-%233572b8.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
     <img alt="Jupyter" height=25 src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -82,9 +91,8 @@ main =
 
 <ul>
   <li>
-    <img alt="OCaml" height=25 src="https://img.shields.io/badge/ocaml-%233be133.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
-    <img alt="Haskell" height=25 src="https://img.shields.io/badge/haskell-%235a5181.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
     <img alt="Swift" height=25 src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+    <img alt="SwiftUI" height=25 src="https://img.shields.io/badge/swiftui-2E7DF6?style=for-the-badge&logo=swift&logoColor=white" />
     <img alt="Rust" height=25 src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
     <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <img alt="Unity" height=25 src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
