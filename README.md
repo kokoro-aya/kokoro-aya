@@ -27,10 +27,10 @@ main =
 - I enjoy learning and using modern languages with exquisite design, such as Haskell, C#, Kotlin, Scala and OCaml.
 - From a theoretical perspective, I am willing to acquire knowledges in Compiling and Programming Language Theory.
 - From a practical perspective, I am seeking for opportunities to learn some non trivial FP techniques and to be in touch with Compiler/VM Design and Optimization.
-- I am interested in modern Object Oriented Design and desktop/cross-platform application development as well.
+- I am interested in modern Object Oriented Design, desktop application and 3d scenario/game developments as well.
 - Still a starter in coding but loves the different perspectives that programming can offer, and the joy of implementing ideas.
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
-- Currently building a homemade simple language compiler and learning compiling theories.
+- Currently working on creating a simple Object Oriented language but with typeclasses and some FP ways instead of inheritance.
 
 ## Languages and tools that I'm currently using
 
