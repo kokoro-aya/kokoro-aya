@@ -30,7 +30,7 @@ main =
 - I am interested in modern Object Oriented Design, desktop application and 3d scenario/game developments as well.
 - Still a starter in coding but loves the different perspectives that programming can offer, and the joy of implementing ideas.
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
-- Currently working on creating a simple Object Oriented language but with typeclasses and some FP ways instead of inheritance.
+- Currently working on creating a simple Object Oriented language largely influenced by FP concepts.
 
 ## Languages and tools that I'm currently using
 
