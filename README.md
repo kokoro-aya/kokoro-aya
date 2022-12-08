@@ -27,7 +27,13 @@ main =
 - I enjoy learning and using modern languages with exquisite design, such as Haskell, C#, Kotlin, Scala and OCaml.
 - From a theoretical perspective, I am willing to acquire knowledges in Compiling and Programming Language Theory.
 - From a practical perspective, I am seeking for opportunities to learn some non trivial FP techniques and to be in touch with Compiler/VM Design and Optimization.
+- Not a fan of redundant OOAD style, I prefer to combine ideas of different paradigms and find solutions with anything in my toolbox.
 - I am interested in modern Object Oriented Design, desktop application and 3d scenario/game developments as well.
+
+- I am quite opinionated regarding languages/technologies as well as tech companies. I am fascinated by curated languages/techs and I am graceful to those companies/schools or individuals behind them. I keep my criticism against languages/tech doomed by the bad designs or bad flavors with a hope that one day it would find its path to overcome them.
+- I am against companies that make profit of young students, flooding the market with low quality jobs and making propagandas toward freshmen in universities and schools.
+- In summary, I don't believe in things like "you can learn whichever language, they are equal" or "you can start your path with whatever, they all give you experience". I believe indeed that one should find his beloved things and deserves herself/himself towards it.
+
 - Still a starter in coding but loves the different perspectives that programming can offer, and the joy of implementing ideas.
 - I love discovering different paradigms and programming in the elegant way, and I'm trying to make use of them. Yet, none of them is proficient.
 - Currently working on creating a simple Object Oriented language largely influenced by FP concepts.
