@@ -1,19 +1,19 @@
 ## ![header](https://capsule-render.vercel.app/api?&type=waving&height=320&text=kokoro-aya&desc=trying%20to%20grasp%20the%20lost&color=0:66ccff,100:ffffff&fontColor=3e3e3e&animation=fadeIn)
 
-```haskell
-name = "kokoro_aya"
+```scala
+// I am trying to make this compile :/
+val kokoro_aya = |> Person {
+    name: "こころあや",
+    occupation: Student { of: .ComputerScience },
+    interest: <| Interest {
+        fields: TheoreticalComputerScience <$> ModernOOP <*> FunctionalProgramming <*> CompilingTheory,
+        leisures: [Minecraft, Trips, Architecture, Coding],
+    },
+    codingIn: [Kotlin, Haskell, Charp, OCaml, Java],
+}
 
-occupation = Student `of` ComputerScience
-
-interests = do
-              fields <- TheoreticalComputerScience <$> ModernOOP <*> FunctionalProgramming <*> CompilingTheories
-              let leisures = [Minecraft, Travaling, Coding] in
-              pure $ InterestsOf fields leisures
-    
-languageSkills = [Kotlin, Haskell, CSharp, OCaml, Java]
-
-main = 
-    kokoro_aya `greet` ()
+@EntryPoint
+main() => kokoro_aya.hello()
 ```
 
 
@@ -134,11 +134,15 @@ You could find some more problems in my code, in particular:
 -   Coupled project structures
 -   Premature optimizations and strange designs for extensiveness
 
-## I love spending times on ...
+## Miscellaneous
+
+I love spending times on ...
 
 - Minecraft Architecture
 - Touhou doujin musics
 - PLT
+
+*kokoro* and *aya* are from *Hatano Kokoro* 秦心 and *Shameimaru Aya* 射命丸文, two lovely characters from the Touhou Project :)
 
 ## Contact Me
 
