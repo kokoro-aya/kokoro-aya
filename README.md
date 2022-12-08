@@ -20,7 +20,7 @@ main =
 
 
 <p></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&count_private=true&hide=prs&show_icons=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kokoro-aya&count_private=true&hide=prs&show_icons=true&theme=prussian">
 
 - Mainly curious about software development, I am willing to make friends and discuss with friends on topics like dev/PL/FP.
 
@@ -40,7 +40,7 @@ main =
 
 ## Languages and tools that I'm currently using
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-aya&layout=compact&langs_count=8&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-aya&layout=compact&langs_count=8&theme=prussian">
 
 <ul>
   <li>
@@ -54,6 +54,15 @@ main =
       <li>
         <img alt="Scala" height=25 src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
         <img alt="Antlr" height=25 src="https://img.shields.io/badge/antlr-%23e47659.svg?style=for-the-badge&"/>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <img alt="Android Studio" height=25 src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+    <ul>
+      <li>
+        <img alt="Flutter" height=25 src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+        <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </li>
     </ul>
   </li>
@@ -90,7 +99,15 @@ main =
     <img alt="Affinity Designer" height=25 src="https://img.shields.io/badge/Affinity%20Designer-%233572b8.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
     <img alt="Jupyter" height=25 src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   </li>
+  <li>
+    <img alt="Visual Studio" height=25 src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img alt="Unity" height=25 src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img alt="Modern C++" height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="gRPC" height=25 src="https://img.shields.io/badge/grpc-79c2c2?style=for-the-badge&logoColor=white" />
+  </li>
 </ul>
+
+[//]: # (TODO: Replace the list by modern two-column design)
 
 
 ## Languages and tools that I'm willing to use
@@ -100,8 +117,6 @@ main =
     <img alt="Swift" height=25 src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
     <img alt="SwiftUI" height=25 src="https://img.shields.io/badge/swiftui-2E7DF6?style=for-the-badge&logo=swift&logoColor=white" />
     <img alt="Rust" height=25 src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-    <img alt="Jetpack Compose" height=25 src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img alt="Unity" height=25 src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
     <img alt=".Net" height=25 src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   </li>
 </ul>
@@ -118,6 +133,12 @@ You could find some more problems in my code, in particular:
 
 -   Coupled project structures
 -   Premature optimizations and strange designs for extensiveness
+
+## I love spending times on ...
+
+- Minecraft Architecture
+- Touhou doujin musics
+- PLT
 
 ## Contact Me
 
