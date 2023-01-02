@@ -144,6 +144,8 @@ I love spending times on ...
 
 *kokoro* and *aya* are from *Hatano Kokoro* 秦心 and *Shameimaru Aya* 射命丸文, two lovely characters from the Touhou Project :)
 
+<img src="https://www.codewars.com/users/kokoro-aya/badges/small" />
+
 ## Contact Me
 
 <div align="center">
