@@ -9,7 +9,7 @@ val kokoro_aya = |> Person {
         fields: TheoreticalComputerScience <$> ModernOOP <*> FunctionalProgramming <*> CompilingTheory,
         leisures: [Minecraft, Trips, Architecture, Coding],
     },
-    codingIn: [Kotlin, Haskell, Charp, OCaml, Java],
+    codingIn: [Kotlin, Haskell, CSharp, OCaml, Java],
 }
 
 @EntryPoint
